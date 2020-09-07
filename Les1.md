@@ -1,8 +1,11 @@
-## Les1 @unplugged
-Dit is fullscreen en moet worden weggeklikt
-## Stap 1 
-hier kan de eerste stap al neergezet worden
+### @activities true
 
-## Stap 14 @tutorialCompleted
+## Introduction
 
-Wat gaat er dan nu gebeuren?
+### Introduction step @unplugged
+
+![Lights flashing](/static/tutorials/light-blaster/flashing-lights.gif)
+
+# Light blaster
+
+The amazing blast of bright light! Make a program to flash the LEDs.
