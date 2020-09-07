@@ -1,5 +1,3 @@
-### @activities true
-
 ## Introduction
 
 ### Introduction step @unplugged
