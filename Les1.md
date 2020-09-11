@@ -1,9 +1,15 @@
-## Introduction
+## Activity 1
 
-### Introduction step @unplugged
+### Step 1
 
-![Lights flashing](/static/tutorials/light-blaster/flashing-lights.gif)
+Instructions for step 1 of activity 1 here...
 
-# Light blaster
+### Step 2
 
-The amazing blast of bright light! Make a program to flash the LEDs.
+Instructions for step 2 of activity 1 here...
+
+## Activity 2
+
+### Step 1
+
+Instructions for step 1 of activity 2 here...
